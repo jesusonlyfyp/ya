@@ -91,10 +91,10 @@ WSGI_APPLICATION = 'bemarking.wsgi.application'
 DATABASES = {
 'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'NicolasFerreiro1$bemarking',
-            'USER': 'NicolasFerreiro1',
-            'PASSWORD': 'Gatoperro1#',
-            'HOST': 'NicolasFerreiro1.mysql.pythonanywhere-services.com',
+            'NAME': 'gaboluque$bemarking',
+            'USER': 'gaboluque',
+            'PASSWORD': '123456*/',
+            'HOST': 'gaboluque.mysql.pythonanywhere-services.com',
             'PORT': '3306',
         }
 }
